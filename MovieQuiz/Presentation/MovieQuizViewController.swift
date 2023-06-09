@@ -20,6 +20,7 @@ final class MovieQuizViewController: UIViewController {
         show(quiz: viewModel)
     }
     
+    
     private var currentQuestionIndex = 0
     private var correctAnswers = 0
     
